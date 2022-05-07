@@ -10,8 +10,8 @@ env:
 jobs:
   workflow-dispatch:
     runs-on: ubuntu-latest
-      
-      steps:
-        - name: Sucess
-          id: success
-          run: echo "Success!"
+
+    steps:
+      - name: Sucess
+        id: success
+        run: echo "Success!"
