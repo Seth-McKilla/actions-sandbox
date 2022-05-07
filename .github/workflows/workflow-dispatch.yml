@@ -1,0 +1,17 @@
+name: Workflow Dispatch
+description: A simple action to test communication with the GitHub API. This action should be dispatched when a POST request is sent to https://api.github.com/repos/Seth-McKilla/actions-sandbox/actions/workflows/workflow-dispatch/dispatches
+
+on:
+  workflow_dispatch:
+
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+jobs:
+  workflow-dispatch:
+    runs-on: ubuntu-latest
+      
+      steps:
+        - name: Sucess
+          id: success
+          run: echo "Success!"
