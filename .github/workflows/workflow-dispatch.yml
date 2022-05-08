@@ -2,6 +2,7 @@ name: Workflow Dispatch
 
 on:
   workflow_dispatch:
+    ref: main # Can be a branch or tag name
 
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
