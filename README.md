@@ -1,6 +1,12 @@
 # Welcome to the GitHub Actions Sandbox 👋
 
 An ever-expanding collection of GitHub actions dedicated to automating as many things as possible 🤖
+<br>
+
+### Interested in staying up-to-date with additions to this repo? Consider following me below 👇
+
+[![Twitter URL](https://img.shields.io/twitter/follow/sethmckilla?style=social)](https://twitter.com/sethmckilla)
+[![GitHub URL](https://img.shields.io/github/followers/seth-mckilla?label=follow%20%40Seth-McKilla&style=social)](https://github.com/seth-mckilla)
 
 ## Table of Contents
 
