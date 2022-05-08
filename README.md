@@ -10,7 +10,7 @@ An ever-expanding collection of GitHub actions dedicated to automating as many t
 
 ## Table of Contents
 
-<a href="#workflow-dispatch"><strong>Workflow Dispatch</strong></a>
+<a href="#workflow-dispatch-↗"><strong>Workflow Dispatch</strong></a>
 
 ## [Workflow Dispatch ↗](./.github/workflows/workflow-dispatch.yml)
 
