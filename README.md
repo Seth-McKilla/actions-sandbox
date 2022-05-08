@@ -1,10 +1,14 @@
-# GitHub Actions Sandbox
+# Welcome to the GitHub Actions Sandbox 👋
 
-An ever-expanding collection of GitHub actions striving to automate as many things as possible 🤖
+An ever-expanding collection of GitHub actions dedicated to automating as many things as possible 🤖
 
-## Directory
+<br><hr><br>
 
-<hr>
+## <ins>Table of Contents</ins>
+
+<a href="#workflow-dispatch"><strong>Workflow Dispatch</strong></a>
+
+<br><hr><br>
 
 ## [Workflow Dispatch](./.github/workflows/workflow-dispatch.yml)
 
@@ -34,4 +38,4 @@ Resources
 <br>
 [Getting started with the GitHub REST API](https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api)
 
-<hr>
+<br><hr><br>
