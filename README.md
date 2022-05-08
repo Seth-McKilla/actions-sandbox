@@ -10,9 +10,9 @@ An ever-expanding collection of GitHub actions dedicated to automating as many t
 
 ## Table of Contents
 
-<a href="#workflow-dispatch-↗"><strong>Workflow Dispatch</strong></a>
+<a href="#workflow-dispatch"><strong>Workflow Dispatch</strong></a>
 
-## [Workflow Dispatch ↗](./.github/workflows/workflow-dispatch.yml)
+## [Workflow Dispatch](./.github/workflows/workflow-dispatch.yml)
 
 Manually trigger an action through a GitHub REST API request. This action should be dispatched when a POST request is sent to: https://api.github.com/repos/{user_name}/{repo_name}/actions/workflows/{action_filename}.yml/dispatches
 <br>
